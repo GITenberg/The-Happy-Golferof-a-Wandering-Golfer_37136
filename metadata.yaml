@@ -1,0 +1,49 @@
+_repo: The-Happy-Golferof-a-Wandering-Golfer_37136
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37136-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Leach, Henry
+    birthdate: 1874
+    gutenberg_agent_id: '38670'
+    url: http://www.gutenberg.org/2009/agents/38670
+description: ''
+gutenberg_issued: '2011-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37136'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GV'
+- !lcsh 'Golf'
+tableOfContents: The seven wonders of golf, and the abiding mystery of the game, with
+  a thought upon traditions and their value -- The ubiquity of the game, with an advertisement
+  for the community of golfers, and a note upon the effect of St. Andrews spirits
+  -- The tragedies of the short putt, and a contrast between children and champions,
+  with the varied counsel of the wisest men -- Old champions and new, and some differences
+  in achievement, with a suggestion that golf is a cruel game -- A famous championship
+  at Brookline, U.S.A., and an account of how Mr. Francis Ouimet won it, with some
+  explanation of seeming mysteries -- The beginnings of golf in the United States,
+  and experiences in travelling there, with an example of American club management
+  -- The perfect country club and the golfers' pow-wow at Onwentsia, with a glimpse
+  of the national links -- The U.S.G.A. and the methods of the business-man golfer,
+  with a remarkable development of municipal golf -- Canadian courses, and a great
+  achievement at Toronto, with matters pertaining to making a new beginning -- Golf
+  de Paris, and some remarkable events at Versailles and Chantilly, with new theories
+  by high authorities -- Riviera golf, and what might be learned from ladies, with
+  a consideration of the overlapping grip -- About the Pyrenees, and the charms of
+  golf at Biarritz and Pau, with possibilities for great adventure -- The game in
+  Italy, and the quality of the course at Rome, with a short consideration of the
+  value of style -- The awakening of Spain, and some marvellous golfing enterprise
+  in Madrid, with a statement of golfers' discoveries -- The superiority of British
+  links, and a masterpiece of Kent, with some systems and morals for holiday golf
+  -- The old dignity of London golf, and its new importance, with a word for the charm
+  of inland courses.
+title: "The Happy Golfer\r\nBeing Some Experiences, Reflections, and a Few Deductions\
+  \ of a Wandering Golfer"
+url: http://www.gutenberg.org/ebooks/37136
