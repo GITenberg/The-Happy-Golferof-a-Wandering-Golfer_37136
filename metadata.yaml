@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '38670'
     url: http://www.gutenberg.org/2009/agents/38670
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37136#The-Happy-Golferof-a-Wandering-Golfer
 gutenberg_issued: '2011-08-19'
 gutenberg_type: Text
 identifiers:
